@@ -26,6 +26,7 @@ module.exports = {
     'linebreak-style': 0,
     'react/state-in-constructor': 0,
     'import/prefer-default-export': 0,
+    'indent': 'off',
     'max-len': [
       1,
       650,
